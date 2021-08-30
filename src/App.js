@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Home from "./pages/Home";
+import {BrowserRouter,Route,Switch} from 'react-router-dom'
+import About from "./pages/About";
+import Footer from "./components/Footer";
+import Error from "./pages/Error";
+import CovidAlert from "./components/CovidAlert";
+import Processing from "./pages/Processing";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+    <CovidAlert/>
+    <Navbar/>
+      <Switch>
+      <Route path='/' exact>
+        <Home/>
+      </Route>
+      <Route path='/about' exact component={About}/>
+      <Route path='/covid-19' exact component={Processing}/>
+      <Route path='/apply-now' exact component={Processing}/>
+      <Route path='/giving' exact component={Processing}/>
+      <Route path='/news' exact component={Processing}/>
+      <Route path='/faculty-staffs' exact component={Processing}/>
+      <Route path='/parents' exact component={Processing}/>
+      <Route path='/alumni' exact component={Processing}/>
+      <Route path='*'>
+        <Error/>
+      </Route>
+      </Switch>
+      <Footer/>
+    </BrowserRouter>
   );
 }
 
