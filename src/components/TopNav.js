@@ -28,7 +28,7 @@ const TopNav = () => {
 
 
                     <div className="login d-flex justify-content-center">
-                        <a href="" className='d-flex d-lg-none'><i className="fas fa-user-lock"></i></a>
+                        <Link to="/login" className='d-flex d-lg-none'><i className="fas fa-user-lock"></i></Link>
                         <form action="" className='login-form'>
                             <i className="fas fa-envelope"></i>  <input type="text" placeholder='email address...' />
                             <i className="fas fa-key"></i>   <input type="password" placeholder='enter password...' />
