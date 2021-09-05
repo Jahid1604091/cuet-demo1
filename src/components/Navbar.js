@@ -606,6 +606,17 @@ total header = 25
         height: 60px !important;
         width: 60px !important;
     }
+    
+    .menu-items li {
+        font-size: 0.8rem !important;
+        font-weight: 800;
+        line-height: 1rem;
+    }
+    
+    .menu-items li a {
+        font-size: 0.8rem !important;
+        font-weight: 800;
+    }
  
 }
     
