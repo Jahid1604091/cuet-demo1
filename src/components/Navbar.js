@@ -328,6 +328,7 @@ const Navbar = () => {
 }
 
 const Wrapper = styled.section`
+
 @import url('https://fonts.maateen.me/charu-chandan-3d/font.css');
 /* header */
 
@@ -354,17 +355,20 @@ total header = 25
 .title h1{
     font-family: 'CharuChandan3D', sans-serif !important;
     color: var(--clr-secondary-1);
-    font-size: 1.2rem;
+    font-size: 1.45rem;
     text-align: center;
     font-weight: 800;
+    transform: scale(1, 1.5);
+    margin-bottom: 1.5rem;
 }
 
 .title h2{
     color: var(--clr-primary-1);
-    font-size: 0.6rem;
+    font-size: 0.7rem;
     text-align: center;
     font-weight: 800;
     text-transform: uppercase;
+    transform: scale(1.1, 1.5);
 }
 
 
@@ -436,7 +440,6 @@ total header = 25
 .menu-items{
     display: flex;
     align-items: center;
-   
 }
 
 .menu-items li{
@@ -477,13 +480,14 @@ total header = 25
 }
 
 .mega-menu .content{
-    background-color: var(--clr-primary-4);
+    background-color: var(--clr-primary-3);
     padding: 1rem;
     width: 100%;
     justify-content: space-between;
     display: grid;
     grid-template-columns: repeat(4,1fr);
     gap: 1rem;
+    text-transform:capitalize;
 }
 
 .content .col{
@@ -491,10 +495,12 @@ total header = 25
     flex-direction:column;
     justify-content: space-between;
     line-height: 1.5rem;
+    text-transform:capitalize;
 }
 
 .content .col section span{
     border-bottom: 2px solid var(--clr-secondary-1);
+    font-size: 1rem;
 }
 
 /* image */

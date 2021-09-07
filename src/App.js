@@ -15,9 +15,9 @@ function App() {
       <CovidAlert />
       <Navbar />
       <Switch>
-        {/* <Route path='/' exact>
+        <Route path='/' exact>
           <Home />
-        </Route> */}
+        </Route>
         <Route path='/about' exact component={About} />
         <Route path='/covid-19' exact component={Processing} />
         <Route path='/apply-now' exact component={Processing} />
@@ -27,9 +27,9 @@ function App() {
         <Route path='/parents' exact component={Processing} />
         <Route path='/alumni' exact component={Processing} />
         <Route path='/login' exact component={Processing} />
-        {/* <Route path='*'>
+        <Route path='*'>
           <Error />
-        </Route> */}
+        </Route>
       </Switch>
       <Footer />
     </BrowserRouter>
