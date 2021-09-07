@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cuet-demo1/static/css/main.6a968559.chunk.css",
-    "main.js": "/cuet-demo1/static/js/main.17b86fbd.chunk.js",
-    "main.js.map": "/cuet-demo1/static/js/main.17b86fbd.chunk.js.map",
+    "main.js": "/cuet-demo1/static/js/main.3e883f0d.chunk.js",
+    "main.js.map": "/cuet-demo1/static/js/main.3e883f0d.chunk.js.map",
     "runtime-main.js": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js",
     "runtime-main.js.map": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js.map",
     "static/js/2.af3b558e.chunk.js": "/cuet-demo1/static/js/2.af3b558e.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.22f9c9d4.js",
     "static/js/2.af3b558e.chunk.js",
     "static/css/main.6a968559.chunk.css",
-    "static/js/main.17b86fbd.chunk.js"
+    "static/js/main.3e883f0d.chunk.js"
   ]
 }
