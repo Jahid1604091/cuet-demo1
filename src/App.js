@@ -1,6 +1,6 @@
 
 import Home from "./pages/Home";
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter, Route, Switch } from 'react-router-dom'
 import About from "./pages/About";
 import Footer from "./components/Footer";
 import Error from "./pages/Error";
@@ -11,7 +11,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <CovidAlert />
       <Navbar />
       <Switch>
@@ -32,7 +32,7 @@ function App() {
         </Route>
       </Switch>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
