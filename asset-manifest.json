@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cuet-demo1/static/css/main.6a968559.chunk.css",
+    "main.js": "/cuet-demo1/static/js/main.b6986a35.chunk.js",
+    "main.js.map": "/cuet-demo1/static/js/main.b6986a35.chunk.js.map",
+    "runtime-main.js": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js",
+    "runtime-main.js.map": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js.map",
+    "static/js/2.695f35e6.chunk.js": "/cuet-demo1/static/js/2.695f35e6.chunk.js",
+    "static/js/2.695f35e6.chunk.js.map": "/cuet-demo1/static/js/2.695f35e6.chunk.js.map",
+    "index.html": "/cuet-demo1/index.html",
+    "static/css/main.6a968559.chunk.css.map": "/cuet-demo1/static/css/main.6a968559.chunk.css.map",
+    "static/js/2.695f35e6.chunk.js.LICENSE.txt": "/cuet-demo1/static/js/2.695f35e6.chunk.js.LICENSE.txt",
+    "static/media/a graduate.dfbb0e6d.jpg": "/cuet-demo1/static/media/a graduate.dfbb0e6d.jpg",
+    "static/media/admns-blding.9027bdb5.jpg": "/cuet-demo1/static/media/admns-blding.9027bdb5.jpg",
+    "static/media/audi.29a96f3e.jpg": "/cuet-demo1/static/media/audi.29a96f3e.jpg",
+    "static/media/banner-2.9499e7b8.jpg": "/cuet-demo1/static/media/banner-2.9499e7b8.jpg",
+    "static/media/cuetlogo.6349adeb.png": "/cuet-demo1/static/media/cuetlogo.6349adeb.png",
+    "static/media/footer-mobile.079b5bb4.png": "/cuet-demo1/static/media/footer-mobile.079b5bb4.png",
+    "static/media/playing.29b5351a.jpg": "/cuet-demo1/static/media/playing.29b5351a.jpg",
+    "static/media/shadinota chottor.22f31a7b.jpg": "/cuet-demo1/static/media/shadinota chottor.22f31a7b.jpg",
+    "static/media/shohid-minar.cd8267df.jpg": "/cuet-demo1/static/media/shohid-minar.cd8267df.jpg",
+    "static/media/vc building.8518e25c.jpg": "/cuet-demo1/static/media/vc building.8518e25c.jpg",
+    "static/media/vc.33cdcde1.jpg": "/cuet-demo1/static/media/vc.33cdcde1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22f9c9d4.js",
+    "static/js/2.695f35e6.chunk.js",
+    "static/css/main.6a968559.chunk.css",
+    "static/js/main.b6986a35.chunk.js"
+  ]
+}
