@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cuet-demo1/static/css/main.6a968559.chunk.css",
-    "main.js": "/cuet-demo1/static/js/main.b6986a35.chunk.js",
-    "main.js.map": "/cuet-demo1/static/js/main.b6986a35.chunk.js.map",
+    "main.js": "/cuet-demo1/static/js/main.17b86fbd.chunk.js",
+    "main.js.map": "/cuet-demo1/static/js/main.17b86fbd.chunk.js.map",
     "runtime-main.js": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js",
     "runtime-main.js.map": "/cuet-demo1/static/js/runtime-main.22f9c9d4.js.map",
-    "static/js/2.695f35e6.chunk.js": "/cuet-demo1/static/js/2.695f35e6.chunk.js",
-    "static/js/2.695f35e6.chunk.js.map": "/cuet-demo1/static/js/2.695f35e6.chunk.js.map",
+    "static/js/2.af3b558e.chunk.js": "/cuet-demo1/static/js/2.af3b558e.chunk.js",
+    "static/js/2.af3b558e.chunk.js.map": "/cuet-demo1/static/js/2.af3b558e.chunk.js.map",
     "index.html": "/cuet-demo1/index.html",
     "static/css/main.6a968559.chunk.css.map": "/cuet-demo1/static/css/main.6a968559.chunk.css.map",
-    "static/js/2.695f35e6.chunk.js.LICENSE.txt": "/cuet-demo1/static/js/2.695f35e6.chunk.js.LICENSE.txt",
+    "static/js/2.af3b558e.chunk.js.LICENSE.txt": "/cuet-demo1/static/js/2.af3b558e.chunk.js.LICENSE.txt",
     "static/media/a graduate.dfbb0e6d.jpg": "/cuet-demo1/static/media/a graduate.dfbb0e6d.jpg",
     "static/media/admns-blding.9027bdb5.jpg": "/cuet-demo1/static/media/admns-blding.9027bdb5.jpg",
     "static/media/audi.29a96f3e.jpg": "/cuet-demo1/static/media/audi.29a96f3e.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.22f9c9d4.js",
-    "static/js/2.695f35e6.chunk.js",
+    "static/js/2.af3b558e.chunk.js",
     "static/css/main.6a968559.chunk.css",
-    "static/js/main.b6986a35.chunk.js"
+    "static/js/main.17b86fbd.chunk.js"
   ]
 }
