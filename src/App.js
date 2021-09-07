@@ -21,6 +21,7 @@ function App() {
         <Route path='/about' exact component={About} />
         <Route path='/covid-19' exact component={Processing} />
         <Route path='/apply-now' exact component={Processing} />
+        <Route path='/visit-us' exact component={Processing} />
         <Route path='/giving' exact component={Processing} />
         <Route path='/news' exact component={Processing} />
         <Route path='/faculty-staffs' exact component={Processing} />

@@ -25,8 +25,8 @@ const Home = () => {
                     <p className="lead py-2">At CUET, we believe in the value of hard work, and we pursue that work tirelessly. We believe that our collective calling as a University is to change lives, change perception and, through our work, to change the world.</p>
                     <div className="btn-group mb-4">
 
-                        <button className="text-uppercase btn-outline-secondary p-2 mx-1">apply now</button>
-                        <button className="text-uppercase btn-secondary p-2 mx-1">visit us</button>
+                        <Link to='/apply-now' className="text-uppercase btn-outline-secondary p-2 mx-1">apply now</Link>
+                        <Link to='/visit-us' className="text-uppercase btn-secondary p-2 mx-1">visit us</Link>
                     </div>
                 </div>
             </section>
